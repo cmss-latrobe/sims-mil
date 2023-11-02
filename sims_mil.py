@@ -1,10 +1,6 @@
-#-------------------------------- Tensorflow implementation of mil --------------------------------#
-
 # version 1.0 - November 2023 
 # Copyright (C) 2023 Wil Gardner, Centre for Materials and Surface Science, La Trobe University
 # Created by Wil Gardner
-
-#----------------------------------------------------------------------------------------------------#
 
 import tensorflow as tf
 from tensorflow.keras import layers
