@@ -1,0 +1,6 @@
+# File types
+*.asv
+*.m~
+#Specific folders
+__pycache__/
+.vs/
